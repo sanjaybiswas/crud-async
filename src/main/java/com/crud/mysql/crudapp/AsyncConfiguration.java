@@ -18,7 +18,9 @@ public class AsyncConfiguration implements AsyncConfigurer {
     private static final String TASK_EXECUTOR_NAME_PREFIX_DEFAULT = "taskExecutor-";
     private static final String TASK_EXECUTOR_NAME_PREFIX_REPOSITORY = "serviceTaskExecutor-";
     
- 
+    /*
+     * 
+     */
     public static final String TASK_EXECUTOR_REPOSITORY = "repositoryTaskExecutor";
     
  
